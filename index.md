@@ -12,3 +12,7 @@ I am testing out all of the header sizes available in markdown.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
